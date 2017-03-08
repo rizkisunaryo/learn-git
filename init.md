@@ -1,2 +1,1 @@
-d
 # learn-git
